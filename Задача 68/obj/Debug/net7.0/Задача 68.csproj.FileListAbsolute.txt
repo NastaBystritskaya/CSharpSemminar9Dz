@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 9 дз\Задача 68\obj\Debug\net7.0\Задача 68.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 9 дз\Задача 68\obj\Debug\net7.0\Задача 68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 9 дз\Задача 68\obj\Debug\net7.0\Задача 68.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 9 дз\Задача 68\obj\Debug\net7.0\Задача 68.AssemblyInfo.cs
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 9 дз\Задача 68\obj\Debug\net7.0\Задача 68.csproj.CoreCompileInputs.cache
